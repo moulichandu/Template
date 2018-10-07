@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">JPMorgan</string>
+    <string name="app_title">Home</string>
+    <string name="earnings">Earnings</string>
+    <string name="ratings">Ratings</string>
+    <string name="account">Account</string>s
+
+    <string name="login">LOGIN</string>
+    <string name="email_phoe">Email or Mobile</string>
+    <string name="password">Password</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="or">Or</string>
+    <string name="createnewaccount">Create New Account</string>
+    <string name="submit">SUBMIT</string>
+    <string name="haveanacnt">Have an account? Login</string>
+    <string name="phonenumber">Mobile Number</string>
+    <string name="firstname">First Name</string>
+    <string name="email">Email</string>
+    <string name="lastname">Last Name</string>
+    <string name="city">City</string>
+
+    <string name="registration">Registration</string>
+    <string name="accepteed_terms">I accepted for your</string>
+    <string name="terms_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="otp">OTP</string>
+    <string name="sendOTP">Send OTP</string>
+
+    <string name="onlinealert">Are you sure want to go Online?</string>
+    <string name="offlinealert">Are you sure want to go Offline?</string>
+
+    <string name="distnce">Distance</string>
+
+    <string name="total">Total</string>
+
+    <string name="payment_mode">Payment Mode</string>
+    <string name="cash">Cash</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+
+    <string name="documents">Documents</string>
+    <string name="help">Help</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="nodata">No data available</string>
+
+    <string name="duration">DURATION</string>
+
+    <string name="type">Type</string>
+    <string name="amount">Amount</string>
+    <string name="payment">Payment</string>
+
+    <string name="continu">CONTINUE</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="done">DONE</string>
+    <string name="address">Address</string>
+    <string name="langueages">Languages</string>
+    <string name="changepassword">Change Password > </string>
+
+    <string name="editaccount">Edit-Account</string>
+    <string name="save">Save</string>
+
+
+</resources>
+

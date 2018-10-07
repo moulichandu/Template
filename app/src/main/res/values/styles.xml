@@ -1,0 +1,104 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextinPutEditTextColor" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorControlNormal">#4a7ab9</item>
+        <item name="colorControlActivated">#4a7ab9</item>
+        <item name="colorControlHighlight">#4a7ab9</item>
+        <item name="colorPrimary">#4a7ab9</item>
+    </style>
+
+    <style name="MineCustomTabText" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">8sp</item>
+    </style>
+
+    <style name="MineCustomTabTextBig" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:textColor">#000</item>
+    </style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">#CCCCCC</item>
+        <item name="colorControlActivated">@color/violet</item>
+
+    </style>
+
+    <style name="HorigantalProgress" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+    <style name="ThemeDialogCustom">
+
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+
+    <style name="button_style" parent="Widget.AppCompat.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/yeellow</item>
+        <item name="android:gravity">center</item>
+        <item name="android:minEms">5</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:minHeight">30dp</item>
+        <item name="android:background">@drawable/button_filled_border</item>
+
+    </style>
+    <style name="edittext_style" parent="Widget.AppCompat.EditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/black_two</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:minHeight">30dp</item>
+        <item name="android:textSize">@dimen/size_20dp</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:imeOptions">actionNext</item>
+        <item name="android:textColorHint">@color/placeholder_color</item>
+
+    </style>
+
+    <style name="linearlayout_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@drawable/rectangle_login</item>
+        <item name="android:minHeight">40dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginTop">@dimen/size_10dp</item>
+
+
+    </style>
+
+    <style name="inputlayoutstyle" parent="Widget.Design.TextInputLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+
+
+        <item name="android:minHeight">40dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginTop">@dimen/size_10dp</item>
+
+
+    </style>
+    <style name="layoutstyle">
+        <item name="android:background">@color/white</item>
+    </style>
+
+
+</resources>

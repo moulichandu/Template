@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#143a85</color>
+    <color name="colorPrimaryDark">#0c317c</color>
+    <color name="colorAccent">#183773</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#d3d3d3</color>
+    <color name="green">#46A935</color>
+    <color name="dark_yellow">#f2a420</color>
+    <color name="violet">#8C4484</color>
+    <color name="heading_blue">#009FFC</color>
+    <color name="heading_green">#5FC62E</color>
+    <color name="heading_orange">#FE9F00</color>
+    <color name="background_gray">#F2F2F4</color>
+    <color name="dark_gray">#B3B3B9</color>
+    <color name="ashcolor">#D2D2D2</color>
+    <color name="yeellow">#FFFF01</color>
+    <color name="ash2">#D0D0D0</color>
+    <color name="black_two">#333333</color>
+    <color name="placeholder_color">#d8d4d4</color>
+    <color name="trans">#0000</color>
+    <color name="line_color">#e5e5e5</color>
+    <color name="background_trans">#f7f7f7</color>
+    <color name="font_light_ash">#999</color>
+    <color name="red">#FF0000</color>
+    <color name="pendingapproval">#1088d9</color>
+    <color name="active_nonExpiry">#3c9150</color>
+    <color name="active">#999</color>
+</resources>
